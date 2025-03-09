@@ -25,7 +25,7 @@ python ingest.py
 ```python
 python chat.py
 ```
-Note:do not forget to pull  models form ollama model names are included in models.txt
+Note: do not forget to pull  models form ollama model names are included in models.txt
 
 ## License
 
